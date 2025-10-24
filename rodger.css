@@ -1,0 +1,8 @@
+.top-header{display:flex; justify-content: space-between; align-items: center; padding: 5px 20px 5px 20px;}
+.header{max-width: 650px; margin:auto; background-color: lightseagreen;}
+.warmup-nav{display: flex; justify-content: center; margin:10px 10px 10px 10px; padding: 5px 20px 5px 20px; list-style-type: none;}
+.warmup-nav-link{padding: 10px 20px 10px 20px;}
+
+.wrapper{max-width: 650px; margin: auto; display: flex; flex-direction: row-reverse;}
+.main-content{padding:10px; background-color: lightyellow; margin-right:5px}
+.side-bar{background-color: lightcoral; padding:10px; display:flex; align-items: center;}
