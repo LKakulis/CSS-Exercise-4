@@ -1,5 +1,12 @@
 .fishheader{max-width: 950px; margin:auto; background-color: rgb(136, 179, 136);}
-.fishside{background-color: rgb(64, 170, 172); padding-right: 150px;margin-right: 19.920; display:flex;}
+.fishside{background-color: rgb(64, 170, 172); margin-right: 19.920;}
 .wrapper{max-width: 950px; margin: auto; display: flex; flex-direction: row;}
 .fishmain{background-color: rgb(166, 254, 166);}
 .fishfooter{background-color: rgb(116, 155, 116); max-width: 950px; margin:auto;}
+
+.herpsheader{background-color: rgb(54, 207, 207); max-width: 950px; margin:auto;}
+.herpsside{background-color: rgb(122, 233, 233); margin-left: 19.920;}
+.herpsmain{background-color: rgb(177, 193, 223);}
+.herpsfooter{background-color: rgb(195, 195, 255); max-width: 950px; margin:auto;}
+.herpswrapper{max-width: 950px; margin: auto; display: flex; flex-direction: row-reverse;}
+
